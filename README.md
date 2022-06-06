@@ -11,3 +11,5 @@ My name is Jacob Swanson and I have started codeing in highschool and have been 
   - Another fun project that I have worked on is the game Bubble Words. This was a project also made during my highschool IOS class, instead this time I was in a group. My group mates were @90306561 and @Lembke2448. This was done using sprite kit and vectors to launch a ball at letters to score points based on the word it forms.
 - ### [Advent of Code](https://github.com/JakE-fiSh/Java-Class): 
   - This was done during my APJava class. Our teacher showed us this website "Advent of Code" and asinged us to do some of their problems. Some were more challenging but I learned a lot from it like importing data from files. I managed to complete 9 of the problems.
+- ### [Trigonometry Quiz](https://github.com/EPHS-iOS/TrigonometryQuiz):
+  - I made this app for my teacher in my last two weeks of school. It is an app to help practicing trigonometry questions.
